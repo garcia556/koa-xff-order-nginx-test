@@ -1,0 +1,8 @@
+{
+  "name": "koa-xff-order-nginx-test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
